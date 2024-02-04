@@ -30,7 +30,9 @@ function City() {
       <p>
         Position: {lat}, {lng}
       </p>
-      ;
+      <button onClick={() => setSearchParams({ lat: 23, lng: 50 })}>
+        Change pos
+      </button>
     </>
   );
   // return (
