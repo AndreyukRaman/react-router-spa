@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,67 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "4203",
+      "cityName": "Wroclaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-02-21T15:56:18.601Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "51.085152912533424",
+        "lng": "17.052007157325054"
+      }
+    },
+    {
+      "id": "b7c7",
+      "cityName": "Talitsy",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-21T16:01:20.458Z",
+      "notes": "",
+      "position": {
+        "lat": "59.704844613306",
+        "lng": "38.746087932799725"
+      }
+    },
+    {
+      "id": "3dfa",
+      "cityName": "Brest",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2024-02-21T16:02:06.776Z",
+      "notes": "",
+      "position": {
+        "lat": "52.07040750119865",
+        "lng": "23.72142655407415"
+      }
+    },
+    {
+      "id": "95ce",
+      "cityName": "Luhavaya Slabada",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2024-02-21T16:04:20.613Z",
+      "notes": "",
+      "position": {
+        "lat": "53.81345496760364",
+        "lng": "27.759645281668824"
+      }
+    },
+    {
+      "id": "f78a",
+      "cityName": "Ramenskoye",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-21T16:09:00.312Z",
+      "notes": "nmmv",
+      "position": {
+        "lat": "55.5223257006139",
+        "lng": "38.08595931450114"
+      }
     }
   ]
 }
