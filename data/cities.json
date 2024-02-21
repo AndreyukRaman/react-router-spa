@@ -49,18 +49,6 @@
       }
     },
     {
-      "id": "b7c7",
-      "cityName": "Talitsy",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2024-02-21T16:01:20.458Z",
-      "notes": "",
-      "position": {
-        "lat": "59.704844613306",
-        "lng": "38.746087932799725"
-      }
-    },
-    {
       "id": "3dfa",
       "cityName": "Brest",
       "country": "Belarus",
@@ -70,30 +58,6 @@
       "position": {
         "lat": "52.07040750119865",
         "lng": "23.72142655407415"
-      }
-    },
-    {
-      "id": "95ce",
-      "cityName": "Luhavaya Slabada",
-      "country": "Belarus",
-      "emoji": "🇧🇾",
-      "date": "2024-02-21T16:04:20.613Z",
-      "notes": "",
-      "position": {
-        "lat": "53.81345496760364",
-        "lng": "27.759645281668824"
-      }
-    },
-    {
-      "id": "f78a",
-      "cityName": "Ramenskoye",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2024-02-21T16:09:00.312Z",
-      "notes": "nmmv",
-      "position": {
-        "lat": "55.5223257006139",
-        "lng": "38.08595931450114"
       }
     }
   ]
